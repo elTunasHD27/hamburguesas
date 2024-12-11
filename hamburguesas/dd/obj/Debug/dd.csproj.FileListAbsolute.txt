@@ -1,0 +1,12 @@
+C:\Users\sheyf\source\repos\dd\bin\Debug\dd.exe.config
+C:\Users\sheyf\source\repos\dd\bin\Debug\dd.exe
+C:\Users\sheyf\source\repos\dd\bin\Debug\dd.pdb
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.csproj.AssemblyReference.cache
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.Form1.resources
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.frm_principal.resources
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.Properties.Resources.resources
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.csproj.GenerateResource.cache
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.csproj.CoreCompileInputs.cache
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.exe
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.pdb
+C:\Users\sheyf\source\repos\dd\obj\Debug\dd.almacen.resources
